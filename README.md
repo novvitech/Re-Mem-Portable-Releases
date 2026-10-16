@@ -16,7 +16,7 @@ Official binary distribution repository for the **Portable USB Edition** of [Re-
 3. Double-click **`Re-Mem-Portable.exe`** to launch.
 4. **Zero installation** and **zero administrator privileges** required.
 
-All encrypted vault files, keys, and settings are stored locally in the adjacent `remem_data/` folder on your drive, leaving zero footprint on the host computer.
+All encrypted vault files, keys, and settings are stored locally in the adjacent `data/` folder (`data/vault.remem`) on your drive, leaving zero footprint on the host computer.
 
 ---
 
