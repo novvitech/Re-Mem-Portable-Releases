@@ -3,6 +3,7 @@
 Official binary distribution repository for the **Portable USB Edition** of [Re-Mem](https://www.novvitech.com/products/re-mem).
 
 [![Download Latest Release](https://img.shields.io/github/v/release/novvitech/Re-Mem-Portable-Releases?label=Download%20Portable%20v1.0.7&color=00c2a8)](https://github.com/novvitech/Re-Mem-Portable-Releases/releases/latest/download/Re-Mem-Portable.zip)
+[![Official User Guide (PDF)](https://img.shields.io/badge/User%20Guide-PDF%20Manual-00796B.svg)](./docs/Re-Mem-Pro-User-Guide.pdf)
 [![Platform: Windows 10 / 11](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(64--bit)-blue.svg)](https://www.novvitech.com/products/re-mem)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial%20%2F%20Free%20Evaluation-gold.svg)](https://www.novvitech.com/products/re-mem#remem-pricing)
 
