@@ -1,0 +1,6 @@
+# Binaries should be attached to GitHub Releases, not checked into git
+*.zip
+*.exe
+*.msix
+.DS_Store
+Thumbs.db
